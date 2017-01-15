@@ -2,7 +2,7 @@
 layout: post
 title:  Should software be documented?
 date:   2008-12-23 12:00:00 +0100
-categories: technology
+categories: software documentation
 ---
 
 First theme I will write about in this blog is software documentation. It feels like natural starting point or at least it should be. Documentation must exist in some shape and volume before you start with development. Documentation purpose is to capture knowledge, keep it from misconception and forgetting. It is important for all participants in software development life cycle, from customer, through PM, developers, tester to users. All of this sounds logical, we have all been taught these things.... so what's the problem?
