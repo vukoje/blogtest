@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2008-12-23 12:14:36 +0100
+date:   2009-05-24 12:00:00 +0100
 categories: 
 ---
 This is my blog about software development.
