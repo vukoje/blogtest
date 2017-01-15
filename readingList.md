@@ -10,6 +10,22 @@ Idea of this page is information sharing and my self motivation to continue read
 
 # Books I have read
 
+![book]({{ site.url }}/assets/books/Managing-for-Happiness.jpg)
+
+[Managing for Happiness: Games, Tools, and Practices to Motivate Any Team](https://www.amazon.com/Managing-Happiness-Games-Practices-Motivate-ebook/dp/B01GQWKHXK/) by Jurgen Appelo
+
+![book]({{ site.url }}/assets/books/Five-Dysfunctions.jpg)
+
+[The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Enhanced-Leadership-ebook/dp/B006960LQW/) by Patrick M. Lencioni
+
+![book]({{ site.url }}/assets/books/coaching-habit.jpg)
+
+[The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.com/Coaching-Habit-Less-Change-Forever-ebook/dp/B01BUIBBZI/) by y Michael Bungay Stanier
+
+![book]({{ site.url }}/assets/books/go-for-no.jpg)
+
+[Go for No! Yes is the Destination, No is How You Get There](https://www.amazon.com/gp/product/B00507TDJM/) by Richard Fenton and Andrea Waltz
+
 ![book]({{ site.url }}/assets/books/hooked.jpg)
 
 [Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) by Nir Eyal
