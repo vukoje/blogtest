@@ -10,6 +10,10 @@ Idea of this page is information sharing and my self motivation to continue read
 
 # Books I have read
 
+[Crucial Conversations Tools for Talking When Stakes Are High](https://www.amazon.com/gp/product/B005K0AYH4/)
+
+[Death by Meeting](https://www.amazon.com/gp/product/B008L03W7O/)
+
 ![book]({{ site.url }}/assets/books/Managing-for-Happiness.jpg)
 
 [Managing for Happiness: Games, Tools, and Practices to Motivate Any Team](https://www.amazon.com/Managing-Happiness-Games-Practices-Motivate-ebook/dp/B01GQWKHXK/) by Jurgen Appelo
