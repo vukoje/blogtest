@@ -12,6 +12,9 @@ Idea of this page is information sharing and my self motivation to continue read
 
 # Management
 
+- [The One Minute Manager Meets the Monkey](https://www.amazon.com/One-Minute-Manager-Meets-Monkey/dp/0688103804)
+- [The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1476740054/)
+- [The Outward Mindset](https://www.amazon.com/Outward-Mindset-Seeing-Beyond-Ourselves/dp/1626567158)
 - [Crucial Conversations Tools for Talking When Stakes Are High](https://www.amazon.com/gp/product/B005K0AYH4/)
 - [Death by Meeting](https://www.amazon.com/gp/product/B008L03W7O/)
 - [Managing for Happiness: Games, Tools, and Practices to Motivate Any Team](https://www.amazon.com/Managing-Happiness-Games-Practices-Motivate-ebook/dp/B01GQWKHXK/)
